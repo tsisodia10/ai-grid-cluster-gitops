@@ -4,6 +4,7 @@ metadata:
   name: cluster-admins
 users:
   - admin
+  - tsisodia
   - khowell
   - aballant
   - lphiri
